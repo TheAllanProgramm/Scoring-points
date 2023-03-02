@@ -32,3 +32,5 @@ while True:
         print("Не корректное значение")
     if z == "zzz":
         break
+input()
+#
